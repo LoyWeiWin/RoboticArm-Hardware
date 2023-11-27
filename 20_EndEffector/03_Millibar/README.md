@@ -1,1 +1,0 @@
-Just came across this nifty catalog for the millibar tool changer (for ARMHub's UR10). This can be useful for those who want to create their own end-effector. https://www.millibar.com/wp-content/uploads/millibar-Tool-Changer-Catalog.pdf (page 06 and 07 are quite helpful)
